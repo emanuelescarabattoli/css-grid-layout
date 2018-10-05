@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+html,
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: "Open Sans";
+}
+
+.demo {
+    margin: 0px;
+    padding: 40px;
+}
+
+.demo-container {
+    margin-bottom: 40px;
+    padding: 0px;
+}
+
+.demo-container h2{
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+}
+
+.demo-container p{
+    margin: 0px 0px 5px 0px;
+    padding: 0px;
+}
+
+.demo-grid {
+    margin: 40px 0px;
+    padding: 0px;
+}
+
+.demo-grid .grid div {
+    margin: 0px;
+    padding: 0px;
+    height: 80px;
+    background-color: #dddddd;
+    border-radius: 5px;
+}
