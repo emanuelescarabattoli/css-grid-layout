@@ -108,7 +108,7 @@ body {
       grid-gap: 0px;
       grid-column-gap: 0px;
       grid-row-gap: 40px;
-      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr;
     }
   
     .grid .col-1,
@@ -123,6 +123,6 @@ body {
     .grid .col-10,
     .grid .col-11,
     .grid .col-12 {
-      grid-column: span 12;
+      grid-column: span 1;
     }
   }
